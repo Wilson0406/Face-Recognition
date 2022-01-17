@@ -9,4 +9,4 @@ A real time face recognition system in Python using Pillow, OpenCV and NumPy.
 4. Run face_recognition.ipynb/face_recognition.py file to check the face recognition.
 
 
-https://github.com/Wilson0406/Face-Recognition/blob/main/Screenshot%20(405).png
+![alt text]()
